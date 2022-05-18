@@ -34,7 +34,7 @@ Data Source: https://www.kaggle.com/datasets/danielgrijalvas/movies
 
 Skills Displayed: Python, Data Cleaning, Data Transformation, Manipulation DateTime Data, Regression Analysis, Correlation Analysis, Codifying Categorical Data, For Loops
 
-# TSQL COVID Analysis
+# T-SQL COVID Analysis
 Data Source: https://ourworldindata.org/covid-deaths
 
 Data Last Updated: 2022-21-04
@@ -45,7 +45,7 @@ Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
 
 Dashboard: https://public.tableau.com/app/profile/leslie.dailey/viz/COVIDDashboard-Updated2022-04-21/Dashboard1 
 
-# TSQL Housing Exploration
+# T-SQL Housing Exploration
 
 Skills Displayed: Modifying DateTime columns, Updating Tables, Handling Null Values, Splitting Columns, Case Statements, CTE's, Removing Duplicates, and Dropping Columns
 
