@@ -1,6 +1,6 @@
 # Portfolio-Projects
 
-# Cognos Analytics IBM Case Study
+### Cognos Analytics IBM Case Study
 Data Source (2019 Survey): https://insights.stackoverflow.com/survey
 
 Skills Displayed: Cognos Analytics, Dashboard Creation, Slide Deck Generation
