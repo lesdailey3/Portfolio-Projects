@@ -22,19 +22,19 @@ Skills Displayed: Pivot Tables, Advanced Excel Functions, Interactive Dashboard 
 
 Skills Displayed: Excel Pivot Charts, Pivot Tables, Basic Statistics, Slide Deck Generation, Solving Business Questions
 
-# Amazon-Web-Scraper
+# Python Amazon Web Scraper
 
 This scaper extracts title of product from a url on Amazon and it's price every day. It will email you if price goes below a threshold.
 
 Skills Displayed: Web Scraping in Python, Creating Time Series Datasets
 
-# Python-Movies-Regression-and-Correlation
+# Python Movies Regression and Correlation
 
 Data Source: https://www.kaggle.com/datasets/danielgrijalvas/movies
 
 Skills Displayed: Python, Data Cleaning, Data Transformation, Manipulation DateTime Data, Regression Analysis, Correlation Analysis, Codifying Categorical Data, For Loops
 
-# T-SQL-COVID-Analysis
+# TSQL COVID Analysis
 Data Source: https://ourworldindata.org/covid-deaths
 
 Data Last Updated: 2022-21-04
@@ -45,7 +45,7 @@ Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
 
 Dashboard: https://public.tableau.com/app/profile/leslie.dailey/viz/COVIDDashboard-Updated2022-04-21/Dashboard1 
 
-# T-SQL Housing-Exploration
+# TSQL Housing Exploration
 
 Skills Displayed: Modifying DateTime columns, Updating Tables, Handling Null Values, Splitting Columns, Case Statements, CTE's, Removing Duplicates, and Dropping Columns
 
