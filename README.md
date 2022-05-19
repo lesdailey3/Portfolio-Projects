@@ -49,4 +49,6 @@ Dashboard: https://public.tableau.com/app/profile/leslie.dailey/viz/COVIDDashboa
 
 Skills Displayed: Modifying DateTime columns, Updating Tables, Handling Null Values, Splitting Columns, Case Statements, CTE's, Removing Duplicates, and Dropping Columns
 
+## Tableau Public Profile
 
+https://public.tableau.com/app/profile/leslie.dailey#!/ 
