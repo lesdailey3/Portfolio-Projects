@@ -22,6 +22,10 @@ Skills Displayed: Pivot Tables, Advanced Excel Functions, Interactive Dashboard 
 
 Skills Displayed: Excel Pivot Charts, Pivot Tables, Basic Statistics, Slide Deck Generation, Solving Business Questions
 
+## Excel Motorcycle Sales Case Study
+
+Skills Displayed: Excel Pivot Chars, Pivot Tables, Basic Statistics, Slide Deck Generation, Solving Business Questions
+
 ## Python Amazon Web Scraper
 
 This scaper extracts title of product from a url on Amazon and it's price every day. It will email you if price goes below a threshold.
